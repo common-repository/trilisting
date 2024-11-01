@@ -1,0 +1,2956 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Trilisting\n"
+"POT-Creation-Date: 2018-10-16 17:26+0500\n"
+"PO-Revision-Date: 2018-10-16 17:26+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: trilisting.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-trilisting-admin.php:82
+msgid "When you import, current plugin settings are overwritten."
+msgstr ""
+
+#: admin/class-trilisting-admin.php:83
+msgid ""
+"This operation will remove custom post type used by plugin and several pages "
+"(search page, dashboard, register/login page). Proceed?"
+msgstr ""
+
+#: admin/class-trilisting-admin.php:106
+msgid "Stick this post to the front page"
+msgstr ""
+
+#: admin/class-trilisting-admin.php:107
+msgid "Public, Sticky"
+msgstr ""
+
+#: admin/class-trilisting-admin.php:120
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: admin/class-trilisting-admin.php:121
+msgid "Make this post sticky"
+msgstr ""
+
+#: admin/class-trilisting-admin.php:122
+msgid "Sticky"
+msgstr ""
+
+#: admin/class-trilisting-admin.php:154 admin/class-trilisting-admin.php:155
+msgid "Import/Export"
+msgstr ""
+
+#: admin/class-trilisting-admin.php:163
+msgid "Welcome"
+msgstr ""
+
+#: admin/class-trilisting-admin.php:175
+msgid "Please check this box if you want to proceed."
+msgstr ""
+
+#: admin/class-trilisting-admin.php:185
+msgid "No valid email."
+msgstr ""
+
+#: admin/class-trilisting-admin.php:218
+msgid "The user has been success fully "
+msgstr ""
+
+#: admin/partials/view-main.php:17
+msgid "triListing v.1.0.0"
+msgstr ""
+
+#: admin/partials/view-main.php:18
+msgid ""
+"Thank you for choosing triListing! Enjoy the plugin and give us feedback on "
+"additional features you may need in future."
+msgstr ""
+
+#: admin/partials/view-main.php:19
+msgid "Please read following steps to get started."
+msgstr ""
+
+#: admin/partials/view-main.php:26
+msgid "1. Install plugins"
+msgstr ""
+
+#: admin/partials/view-main.php:27
+msgid ""
+"You need to install several plugins in order to get triListing working "
+"properly. Please <a href=\""
+msgstr ""
+
+#: admin/partials/view-main.php:35
+msgid "2. Run setup"
+msgstr ""
+
+#: admin/partials/view-main.php:42
+msgid ""
+"Sorry, but we do not support this Advanced Custom Fields plugin version. "
+"Please update plugin to the latest version"
+msgstr ""
+
+#: admin/partials/view-main.php:44
+msgid "Please run setup to create custom post types, pages and fields."
+msgstr ""
+
+#: admin/partials/view-main.php:61
+msgid "3. Get theme done"
+msgstr ""
+
+#: admin/partials/view-main.php:62
+msgid ""
+"Please <a href=\"https://trilisting.com/trilisting-plugin-documentation/\" "
+"target=\"_blank\">read documentation</a> to get started with plugin and "
+"theme customization"
+msgstr ""
+
+#: admin/partials/view-main.php:69
+msgid "Get theme done"
+msgstr ""
+
+#: admin/partials/view-main.php:77
+msgid "<b>Want this freebie? Enter your email and get it now!</b>"
+msgstr ""
+
+#: admin/partials/view-main.php:78
+msgid ""
+"Simply enter your email address below and download link will be sent right "
+"to your inbox."
+msgstr ""
+
+#: admin/partials/view-main.php:79
+msgid ""
+"Your email will never be shared to 3rd parties and you can unsubscribe any "
+"time you want."
+msgstr ""
+
+#: admin/partials/view-main.php:82
+msgid "Email Address"
+msgstr ""
+
+#: admin/partials/view-main.php:90
+msgid ""
+"Yes, please send me the occasional newsletter with exclusive freebies and "
+"updates"
+msgstr ""
+
+#: admin/partials/view-main.php:93
+msgid "Subscribe"
+msgstr ""
+
+#: core/captcha/class-trilisting-captcha.php:74
+msgid "Captcha Invalid"
+msgstr ""
+
+#: core/class-trilisting-init.php:39
+msgid "triListing user menu"
+msgstr ""
+
+#: core/class-trilisting-widgets-platform.php:206
+msgid "Are you sure you want to delete this post?"
+msgstr ""
+
+#: core/class-trilisting-widgets-platform.php:214
+msgid "Sending user info, please wait..."
+msgstr ""
+
+#: core/class-trilisting-widgets-platform.php:541
+msgid "All categories"
+msgstr ""
+
+#: core/class-trilisting-widgets-platform.php:567
+msgid "All tags"
+msgstr ""
+
+#: core/class-trilisting-widgets-platform.php:623
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: core/class-trilisting-widgets-platform.php:626
+msgid "1"
+msgstr ""
+
+#: core/class-trilisting-widgets-platform.php:627
+msgid "%TOTAL_PAGES%"
+msgstr ""
+
+#: core/class-trilisting-widgets-platform.php:630
+#: core/class-trilisting-widgets-platform.php:631
+msgid "..."
+msgstr ""
+
+#: core/class-trilisting-widgets-platform.php:674
+msgid "<i class=\"fas fa-long-arrow-alt-right\"></i>"
+msgstr ""
+
+#: core/class-trilisting-widgets-platform.php:679
+msgid "<i class=\"fas fa-long-arrow-alt-left\"></i>"
+msgstr ""
+
+#: core/demo-export/class-trilisting-demo-export.php:81
+msgid "Link to download:"
+msgstr ""
+
+#: core/demo-export/class-trilisting-demo-export.php:82
+msgid "Download"
+msgstr ""
+
+#: core/demo-export/class-trilisting-demo-export.php:83
+msgid "(file size: "
+msgstr ""
+
+#: core/demo-export/class-trilisting-demo-export.php:83
+msgid "Kb)"
+msgstr ""
+
+#: core/demo-export/class-trilisting-demo-export.php:101
+#: core/demo-export/class-trilisting-demo-export.php:105
+msgid "Export"
+msgstr ""
+
+#: core/demo-export/class-trilisting-demo-export.php:102
+msgid "Export fields and plugin options."
+msgstr ""
+
+#: core/demo-export/class-trilisting-demo-export.php:103
+msgid "Select fields to be exported."
+msgstr ""
+
+#: core/demo-export/class-trilisting-demo-export.php:134
+msgid "Select Field Groups"
+msgstr ""
+
+#: core/demo-export/export.php:19
+msgid "Error"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:69
+#: core/demo-import/class-trilisting-demo-import.php:254
+msgid "Completed successfully!"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:126
+msgid "Install and activate required plugins"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:127
+msgid " to run setup."
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:170
+msgid "Import"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:174
+msgid "Choose a file from your computer:"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:174
+msgid "(Maximum size: 500 KB)"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:179
+msgid "Upload file and import"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:203
+msgid "The file size exceeds 10 MB"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:217
+msgid "File upload error"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:247
+#: core/templates/metabox-forms/metabox-fields.php:39
+msgid "Delete"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:251
+msgid "Set up"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:280
+#: core/libs/wordpress-importer/wordpress-importer.php:143
+msgid "All done."
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:296
+msgid "Login"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:300
+#: core/media-buttons/class-trilisting-media-buttons.php:168
+msgid "Dashboard"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:304
+msgid "Submit place listing"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:308
+msgid "Search places"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:337
+msgid "Search form"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:357
+msgid "Tags"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:365
+#: core/media-buttons/class-trilisting-media-buttons.php:203
+#: core/search/functions.php:24
+#: core/templates/metabox-forms/metabox-fields.php:7
+msgid "Search"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:398
+msgid "Pages already exists - "
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:439
+msgid "File with theme options doesnt exists: "
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:464
+msgid "No file selected"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:474
+msgid "Import file empty"
+msgstr ""
+
+#: core/demo-import/class-trilisting-demo-import.php:548
+#, php-format
+msgid "Imported 1 field group"
+msgid_plural "Imported %s field groups"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/frontend/class-trilisting-account.php:96
+msgid "The username field is empty."
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:106
+msgid "The password field is empty."
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:116
+#: core/frontend/class-trilisting-account.php:343
+msgid "Invalid username"
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:147
+msgid "Incorrect password."
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:160
+msgid "Login successful."
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:187
+msgid "You need to agree with privacy policy."
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:202
+msgid "You need to agree with terms & conditions."
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:213
+msgid " The username field is empty."
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:222
+msgid " Minimum 3 characters required"
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:231
+msgid "Invalid username (do not use special characters or spaces)!"
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:240
+msgid "The email field is empty."
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:249
+msgid "This username is already registered."
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:258
+msgid "This email address is already registered."
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:268
+msgid "Invalid email address."
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:293
+msgid "A generated password was sent to your email, please check email!"
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:313
+msgid "Enter a email address."
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:330
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:364
+msgid "Someone has requested a password reset for the following account:"
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:366
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:367
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:368
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:377
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:385
+msgid "The email could not be sent."
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:385
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#: core/frontend/class-trilisting-account.php:393
+msgid "Please, Check your email"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:126
+#: core/templates/dashboard.tpl.php:24
+msgid "My profile"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:128
+msgid "First Name"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:132
+msgid "Last Name"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:136
+msgid "Nickname"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:140
+msgid "Display name"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:144
+msgid "E-mail *"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:148
+msgid "Website"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:152
+msgid "Password *"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:156
+msgid "Repeat Password *"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:160
+msgid "Biographical Information"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:164
+msgid "User avatar"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:172
+msgid "Delete avatar"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:227
+msgid "The passwords you entered do not match.  Your password was not updated."
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:244
+msgid "The Email you entered is not valid.  please try again."
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:246
+msgid "This email is already used by another user.  try a different one."
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:391
+msgid "Return back"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:398
+#: core/media-buttons/class-trilisting-media-buttons.php:173
+msgid "Gallery"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:405
+msgid "Add to gallery"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:441
+msgid "Title*"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:448
+msgid "Featured Image"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:456
+msgid "No image selected "
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:456
+msgid "Add image"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:460
+msgid "Description"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:501
+msgid "Create"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:515
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:541
+msgid "Update listing"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:604
+#: core/helpers/functions.php:374 core/templates/dashboard.tpl.php:41
+msgid "Add listing"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:654
+msgid "Featured image"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:655
+#: core/search/admin/class-admin-search-forms.php:98
+msgid "Title"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:656
+msgid "Dashboard actions"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:669
+msgid "Invalid ID"
+msgstr ""
+
+#: core/frontend/class-trilisting-frontend.php:681
+#, php-format
+msgid "%s has been deleted"
+msgstr ""
+
+#: core/helpers/functions.php:413
+msgid "Edit listing"
+msgstr ""
+
+#: core/helpers/functions.php:565
+msgid "star rating"
+msgstr ""
+
+#: core/libs/wordpress-importer/class-wxr-parser-regex.php:99
+#: core/libs/wordpress-importer/class-wxr-parser-simplexml.php:50
+#: core/libs/wordpress-importer/class-wxr-parser-simplexml.php:55
+#: core/libs/wordpress-importer/class-wxr-parser-xml.php:56
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: core/libs/wordpress-importer/class-wxr-parser-simplexml.php:37
+#: core/libs/wordpress-importer/class-wxr-parser-simplexml.php:45
+#: core/libs/wordpress-importer/class-wxr-parser.php:53
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: core/libs/wordpress-importer/class-wxr-parser.php:54
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:101
+#: core/libs/wordpress-importer/wordpress-importer.php:109
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:102
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:143
+msgid "Have fun!"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:164
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:187
+msgid "Import author:"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:201
+msgid "or create new user with login name:"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:204
+msgid "as a new user:"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:212
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:214
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:217
+msgid "- Select -"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:270
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:329
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:378
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:435
+#: core/libs/wordpress-importer/wordpress-importer.php:670
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:525
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:563
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:633
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:809
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:816
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:880
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:895
+msgid "Invalid file type"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:947
+msgid "Remote server did not respond"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:955
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:962
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:967
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: core/libs/wordpress-importer/wordpress-importer.php:973
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: core/libs/wp-background-processing/wp-background-process.php:425
+#, php-format
+msgid "Every %d Minutes"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-media-buttons.php:53
+msgid "Add triListing Shortcodes"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-media-buttons.php:163
+msgid "Login/Register"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-media-buttons.php:177
+msgid "Image size"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-media-buttons.php:182
+msgid "Style"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-media-buttons.php:184
+msgid "HTML tag <img>"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-media-buttons.php:185
+msgid "Css background-image"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-media-buttons.php:191
+#: core/templates/metabox-forms/metabox-settings.php:38
+msgid "Custom Class"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-media-buttons.php:198
+#: core/saved-listings/class-trilisting-saved-listings.php:99
+#: core/saved-listings/functions.php:110 core/saved-listings/functions.php:240
+#: core/templates/dashboard.tpl.php:51
+msgid "Saved"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-media-buttons.php:207
+msgid "Form"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-media-buttons.php:215
+msgid "Submit Form"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-media-buttons.php:219
+msgid "Post type"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-media-buttons.php:227
+msgid "User Profile"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-media-buttons.php:234
+msgid "triListing Shortcodes"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-media-buttons.php:235
+msgid "Choose a shortcode"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-media-buttons.php:266
+msgid "For additional information please "
+msgstr ""
+
+#: core/media-buttons/class-trilisting-media-buttons.php:266
+msgid "read the documentation."
+msgstr ""
+
+#: core/media-buttons/class-trilisting-media-buttons.php:267
+msgid "Insert"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-shortcodes-widgets.php:35
+msgid "Add shortcodes."
+msgstr ""
+
+#: core/media-buttons/class-trilisting-shortcodes-widgets.php:463
+#: core/media-buttons/class-trilisting-shortcodes-widgets.php:474
+msgid "Add Shortcodes"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-shortcodes-widgets.php:471
+#: core/media-buttons/class-trilisting-shortcodes-widgets.php:505
+#: core/platform/list-widgets/wp/class-trilisting-widgets-fields-view.php:165
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:268
+#: core/platform/list-widgets/wp/class-trilisting-widgets-user-actions.php:130
+msgid "Title:"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-shortcodes-widgets.php:477
+msgid ""
+"This widget may contain code that may work better in the &#8220;Custom "
+"HTML&#8221; widget. How about trying that widget instead?"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-shortcodes-widgets.php:479
+msgid ""
+"This widget may have contained code that may work better in the &#8220;"
+"Custom HTML&#8221; widget. If you haven&#8217;t yet, how about trying that "
+"widget instead?"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-shortcodes-widgets.php:483
+#: core/media-buttons/class-trilisting-shortcodes-widgets.php:544
+msgid "Content:"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-shortcodes-widgets.php:487
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-shortcodes-widgets.php:512
+msgid "New Custom HTML Widget"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-shortcodes-widgets.php:514
+msgid ""
+"Did you know there is a &#8220;Custom HTML&#8221; widget now? You can find "
+"it by pressing the &#8220;<a class=\"add-widget\" href=\"#\">Add a Widget</"
+"a>&#8221; button and searching for &#8220;HTML&#8221;. Check it out to add "
+"some custom code to your site!"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-shortcodes-widgets.php:516
+msgid ""
+"Did you know there is a &#8220;Custom HTML&#8221; widget now? You can find "
+"it by scanning the list of available widgets on this screen. Check it out to "
+"add some custom code to your site!"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-shortcodes-widgets.php:519
+#: core/media-buttons/class-trilisting-shortcodes-widgets.php:534
+msgid "Dismiss"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-shortcodes-widgets.php:531
+msgid "Did you just paste HTML?"
+msgstr ""
+
+#: core/media-buttons/class-trilisting-shortcodes-widgets.php:532
+msgid ""
+"Hey there, looks like you just pasted HTML into the &#8220;Visual&#8221; tab "
+"of the Text widget. You may want to paste your code into the &#8220;"
+"Text&#8221; tab instead. Alternately, try out the new &#8220;Custom "
+"HTML&#8221; widget!"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:308
+msgid "Custom title for this block:"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:309
+msgid ""
+"Optional - a title for this block, if you leave it blank the block will not "
+"have a title"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:317
+msgid "Title url:"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:318
+msgid "Optional - a custom url when the block title is clicked"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:340
+msgid "Columns:"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:358
+msgid "Post Type:"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:359
+msgid ""
+"Filter by post types. Usage: post, page, trilisting_places - Write 1 or more "
+"post types delimited by commas"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:368
+msgid "Taxonomy Type:"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:369
+msgid ""
+"Filter by post taxonomy. Usage: trilisting_category, trilisting_location, "
+"trilisting_features."
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:378
+msgid "Taxonomy slug (It depends on taxonomy type set):"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:379
+msgid ""
+"Filter by taxonomy categories. Usage: slug taxonomy - Write 1 or more post "
+"types delimited by commas."
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:388
+msgid "Post ID filter:"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:389
+msgid ""
+"Filter multiple posts by ID. Enter here the post IDs separated by commas "
+"(ex: 1,2,3). To exclude posts from this widget add them with '-' (ex: -7, "
+"-211)"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:398
+msgid "Multiple authors filter:"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:399
+msgid ""
+"Filter multiple authors by ID. Enter here the author IDs separated by commas "
+"(ex: 11,12,15)."
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:408
+#: core/platform/templates/class-trilisting-widgets-template-1.php:68
+msgid "By publish date"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:409
+#: core/platform/templates/class-trilisting-widgets-template-1.php:69
+msgid "By modify date"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:410
+msgid "By title"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:411
+msgid "By slug"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:412
+msgid "By views count"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:413
+msgid "By comments/reviews count"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:414
+msgid "Random"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:415
+msgid "Random Today"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:416
+msgid "Random from last 7 Day"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:418
+msgid "Sort by:"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:419
+msgid "How to sort the listing."
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:428
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:333
+msgid "Descending"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:429
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:332
+msgid "Ascending"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:431
+msgid "Sort order:"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:432
+msgid "Sort direction."
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:441
+msgid "Hide"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:442
+msgid "Show"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:444
+msgid "Sticky posts:"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:445
+msgid "Shows sticky posts at the top of other posts."
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:456
+msgid "Extra class"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:457
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:474
+msgid "No pagination"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:475
+msgid "Next and Prev ajax"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:476
+msgid "Numeric ajax"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:477
+msgid "Load More button"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:479
+msgid "Pagination:"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:480
+msgid "Select pagination type for widget."
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:483
+#: core/platform/options/trilisting-widgets-options.php:447
+msgid "Pagination"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:489
+msgid "Css"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:490
+msgid "Design options"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:505
+msgid "No ajax filter"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:506
+msgid "Filter by authors"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:508
+msgid "Ajax dropdown - filter type:"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:509
+msgid ""
+"Show the ajax drop down filter. The ajax filters require an additional "
+"parameter. If no ids are provided in the input below, the filter will show "
+"all the available items (ex: all authors, all categories etc..)"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:512
+#: core/platform/class-trilisting-widgets-manager.php:523
+#: core/platform/class-trilisting-widgets-manager.php:534
+#: core/platform/class-trilisting-widgets-manager.php:547
+msgid "Ajax filter"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:519
+msgid "Ajax dropdown - show the following IDs:"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:520
+msgid ""
+"The ajax drop down shows only the (author ids, categories ids OR tag IDs) "
+"that you enter here separated by comas"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:530
+msgid "Ajax dropdown - Filter default text:"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:531
+msgid ""
+"The default text for the first item from the drop down. The first item shows "
+"the default block settings (the settings from the Filter tab)"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:541
+#: core/platform/options/trilisting-widgets-options.php:318
+#: core/platform/options/trilisting-widgets-options.php:468
+#: core/templates/metabox-forms/metabox-fields.php:117
+#: core/templates/metabox-forms/metabox-fields.php:141
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:130
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:151
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:173
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:98
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:109
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:121
+msgid "No"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:542
+#: core/platform/options/trilisting-widgets-options.php:317
+#: core/platform/options/trilisting-widgets-options.php:467
+#: core/templates/metabox-forms/metabox-fields.php:116
+#: core/templates/metabox-forms/metabox-fields.php:140
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:129
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:150
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:172
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:97
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:108
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:120
+msgid "Yes"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:544
+msgid "Ajax sort by filter"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:562
+msgid "Limit post number:"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:563
+msgid ""
+"If the field is empty the limit post number will be the number from "
+"Wordpress settings -> Reading"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:571
+msgid "Offset posts:"
+msgstr ""
+
+#: core/platform/class-trilisting-widgets-manager.php:572
+msgid ""
+"Start the count with an offset. If you have a block that shows 5 posts "
+"before this one, you can make this one start from the 6'th post (by using "
+"offset 5)"
+msgstr ""
+
+#: core/platform/hooks/acf.php:76
+msgid "Hide label on front?"
+msgstr ""
+
+#: core/platform/hooks/hooks.php:140
+msgid "triListing"
+msgstr ""
+
+#: core/platform/list-widgets/blog-1/init.php:18
+msgid "Widget Blog 1"
+msgstr ""
+
+#: core/platform/list-widgets/class-trilisting-widget-base-default.php:125
+msgid "Sorry but we don't have anything in this area."
+msgstr ""
+
+#: core/platform/list-widgets/class-trilisting-widget-base.php:388
+msgid "All"
+msgstr ""
+
+#: core/platform/list-widgets/class-trilisting-widget-base.php:597
+#: core/templates/pagination.tpl.php:23
+msgid "Prev"
+msgstr ""
+
+#: core/platform/list-widgets/class-trilisting-widget-base.php:598
+#: core/templates/pagination.tpl.php:24
+msgid "Next"
+msgstr ""
+
+#: core/platform/list-widgets/class-trilisting-widget-base.php:644
+#: core/platform/options/trilisting-widgets-helper-function.php:110
+msgid "Load more"
+msgstr ""
+
+#: core/platform/list-widgets/featured-1/init.php:16
+msgid "Widget Featured 1"
+msgstr ""
+
+#: core/platform/list-widgets/maps-1/init.php:12
+msgid "Widget maps 1"
+msgstr ""
+
+#: core/platform/list-widgets/standard-1/init.php:12
+msgid "Widget Standard 1"
+msgstr ""
+
+#: core/platform/list-widgets/thumbnail-1/init.php:16
+msgid "Widget Thumbnail 1"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-fields-view.php:34
+msgid "A list or dropdown of fields view."
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-fields-view.php:162
+msgid "Displays fields only on a single template"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-fields-view.php:169
+msgid "Select Post Type:"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-fields-view.php:185
+msgid "Select Fields:"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-fields-view.php:202
+msgid "Custom class:"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-fields-view.php:204
+msgid "Enter here the custom class separated by commas (ex: container,row)"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-fields-view.php:208
+msgid "Hide fields label"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:32
+msgid "A list or dropdown of taxonomies."
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:184
+msgid "No Categories"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:272
+msgid "Select Taxonomy:"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:290
+msgid "Show Post Counts"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:293
+msgid "Show Hierarchy"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:296
+msgid "Show Empty Terms"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:300
+msgid "View template:"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:305
+msgid "Default"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:320
+msgid "Order By:"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:322
+msgid "ID"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:323
+msgid "Name"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:324
+msgid "Slug"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:325
+msgid "Count of listings"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:326
+msgid "Term Group"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:338
+msgid "Include (comma-separated list of ids to include"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:344
+msgid "Exclude (comma-separated list of ids to exclude)"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:350
+msgid "Count category"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:356
+msgid "Only Show Children of (category id)"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-taxonomy.php:360
+msgid "Display as Dropdown"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-user-actions.php:27
+msgid "Edit listing and save listing buttons."
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-user-actions.php:136
+msgid "Show edit"
+msgstr ""
+
+#: core/platform/list-widgets/wp/class-trilisting-widgets-user-actions.php:141
+msgid "Show save"
+msgstr ""
+
+#: core/platform/options/extensions/customizer/extension_customizer.php:559
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: core/platform/options/extensions/customizer/extension_customizer.php:560
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: core/platform/options/extensions/customizer/extension_customizer.php:561
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: core/platform/options/extensions/customizer/extension_customizer.php:586
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: core/platform/options/extensions/customizer/extension_customizer.php:587
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: core/platform/options/extensions/customizer/extension_customizer.php:588
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: core/platform/options/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#. translators: %s is the site/panel title in the Customizer
+#: core/platform/options/extensions/customizer/inc/customizer_panel.php:114
+#: core/platform/options/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: core/platform/options/extensions/customizer/inc/customizer_panel.php:138
+#: core/platform/options/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: core/platform/options/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr ""
+
+#: core/platform/options/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: core/platform/options/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: core/platform/options/templates/panel/header.tpl.php:21
+msgid "Documentation"
+msgstr ""
+
+#: core/platform/options/templates/panel/header.tpl.php:24
+msgid "Support"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-helper-function.php:35
+msgid "Author"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-helper-function.php:36
+msgid "Number Reviews/Comments"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-helper-function.php:37
+msgid "Category"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-helper-function.php:38
+#: core/search/admin/class-admin-search-forms.php:100
+msgid "Date"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-helper-function.php:39
+msgid "Reviews"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-helper-function.php:71
+msgid "None fields"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-helper-function.php:88
+msgid "Inherit"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-helper-function.php:92
+msgid "None"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-helper-function.php:95
+msgid "Standard"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-helper-function.php:96
+msgid "Blog"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-helper-function.php:109
+msgid "Numeric"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:42
+#: core/platform/options/trilisting-widgets-options.php:405
+msgid "triListing Options"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:43
+msgid "Options"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:133
+msgid "Allow registered users to publish posts without moderation"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:140
+msgid "Allow users to edit own published listing"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:147
+msgid "Allow users to edit own pending listing"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:154
+msgid "Saving Listing"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:155
+msgid "Allows users to save listing."
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:162
+msgid "Enable Gallery"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:163
+msgid "Add gallery in submit form."
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:164
+msgid "To display the gallery in listing, "
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:164
+msgid "follow instructions."
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:172
+msgid "Google Maps API Key"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:173
+msgid "This is a requirement to use Google Maps, you can get key "
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:173
+#: core/platform/options/trilisting-widgets-options.php:572
+#: core/platform/options/trilisting-widgets-options.php:578
+msgid "here"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:179
+msgid "Map Markers"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:186
+msgid "Default Marker"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:203
+msgid "Custom Default Marker"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:209
+msgid "Sticky Marker"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:226
+msgid "Custom Sticky Marker"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:239
+#: core/platform/options/trilisting-widgets-options.php:264
+#: core/platform/options/trilisting-widgets-options.php:289
+#: core/platform/options/trilisting-widgets-options.php:302
+msgid "Title Length"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:240
+#: core/platform/options/trilisting-widgets-options.php:252
+#: core/platform/options/trilisting-widgets-options.php:265
+#: core/platform/options/trilisting-widgets-options.php:277
+#: core/platform/options/trilisting-widgets-options.php:290
+#: core/platform/options/trilisting-widgets-options.php:303
+msgid "Limit number of characters to display."
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:251
+#: core/platform/options/trilisting-widgets-options.php:276
+msgid "Excerpt Length"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:315
+msgid "Hide Admin Panel"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:316
+msgid "Hide WordPress admin panel for your users while they are logged in."
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:326
+msgid "Enable Reviews"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:327
+msgid "Enable reviews for selected post types."
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:335
+msgid "Dashboard Page"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:342
+msgid "Submit Listing Page"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:355
+#: core/platform/options/trilisting-widgets-options.php:364
+#: core/platform/options/trilisting-widgets-options.php:380
+#: core/platform/options/trilisting-widgets-options.php:388
+#: core/platform/options/trilisting-widgets-options.php:396
+msgid " Meta Data"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:356
+msgid "What information should be hidden."
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:365
+msgid "What information should be displayed in listing on map."
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:372
+msgid "Search Page - "
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:381
+#: core/platform/options/trilisting-widgets-options.php:389
+#: core/platform/options/trilisting-widgets-options.php:397
+msgid "What information should be displayed in widget."
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:413
+msgid "General"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:423
+msgid "Layout"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:433
+msgid "Archive/Search Pages"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:439
+#: core/platform/options/trilisting-widgets-options.php:486
+msgid "Listing View"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:440
+msgid "Choose how to display listings on archive/search page."
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:448
+msgid "Choose how to display your pagination."
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:455
+#: core/platform/options/trilisting-widgets-options.php:506
+msgid "Number of Listings"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:466
+msgid "Show Map on the Page"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:480
+msgid "Saved Listings Page"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:487
+msgid "Choose how to display listings on save page."
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:494
+msgid "Blog Columns"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:524
+#: core/platform/options/trilisting-widgets-options.php:718
+msgid "Map"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:534
+msgid "Single Listing"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:544
+msgid "ReCaptcha"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:553
+msgid "ReCAPTCHA v2 on the Log in Page"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:559
+msgid "ReCAPTCHA v2 on the Registration Page"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:565
+msgid "ReCAPTCHA v2 on the Reset Password Page"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:571
+msgid "Site Key"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:572
+msgid ""
+"Required - Enter ReCaptcha Site Key That You get After Site Registration "
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:577
+msgid "Secret Key"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:578
+msgid ""
+"Required - Enter ReCaptcha Secret Key That You get After Site Registration "
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:585
+msgid "User"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:594
+msgid "Redirect to this Page After log in"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:600
+msgid "Redirect to this Page After Registration"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:606
+msgid "Privacy Policy"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:612
+msgid "Enable on Registration Form"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:618
+msgid "Enable on Comment Form"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:624
+msgid "Select Privacy Policy Page"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:633
+msgid "Privacy Policy Agreement Confirmation Text"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:634
+msgid "I consent to collecting and storing the data I submit in this form"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:645
+msgid "Terms and Conditions"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:651
+msgid "Enable Terms and Conditions for Registration Form"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:657
+msgid "Select Terms and Conditions Page"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:671
+msgid "Default Listing Image"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:672
+msgid ""
+"Default listing image is used when user forget to set listing image for the "
+"post."
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:678
+msgid "Image"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:679
+msgid "Select from media library or upload new image."
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:688
+msgid "triListing Widgets"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:697
+msgid "Blog 1"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:704
+msgid "Standard 1"
+msgstr ""
+
+#: core/platform/options/trilisting-widgets-options.php:711
+msgid "Thumbnail 1"
+msgstr ""
+
+#: core/platform/templates/class-trilisting-widgets-template-1.php:70
+msgid "By post title"
+msgstr ""
+
+#: core/platform/templates/class-trilisting-widgets-template-1.php:71
+msgid "By post slug"
+msgstr ""
+
+#: core/platform/templates/class-trilisting-widgets-template-1.php:72
+msgid "By post views count"
+msgstr ""
+
+#: core/platform/templates/class-trilisting-widgets-template-1.php:73
+msgid "By comments count"
+msgstr ""
+
+#: core/platform/templates/class-trilisting-widgets-template-1.php:74
+msgid "Random Posts"
+msgstr ""
+
+#: core/platform/templates/class-trilisting-widgets-template-1.php:75
+msgid "Random posts Today"
+msgstr ""
+
+#: core/platform/templates/class-trilisting-widgets-template-1.php:76
+msgid "Random posts from last 7 Day"
+msgstr ""
+
+#: core/platform/templates/class-trilisting-widgets-template-1.php:80
+msgid "Sort by"
+msgstr ""
+
+#: core/platform/widgetitems/class-trilisting-acf-fileds.php:826
+msgid "Get direction"
+msgstr ""
+
+#: core/platform/widgetitems/class-trilisting-widget-item-base.php:199
+msgid " review"
+msgid_plural " reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/platform/widgetitems/class-trilisting-widget-item-base.php:201
+msgid " comment"
+msgid_plural " comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/register-types/class-trilisting-register-types.php:94
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:95
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:96
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:97
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:98
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:99
+#, php-format
+msgid "No %s found."
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:100
+#, php-format
+msgid "No %s found in Trash."
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:101
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:102
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:103
+#, php-format
+msgid "Insert into %s"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:104
+#, php-format
+msgid "Uploaded to this %s"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:105
+#, php-format
+msgid "Filter %s list"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:106
+#, php-format
+msgid "%s list"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:107
+#, php-format
+msgid "%s list navigation"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:130
+#: core/register-types/class-trilisting-register-types.php:132
+msgid "Place Categories"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:133
+msgid "Place Category"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:134
+msgid "Search Place Categories"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:135
+msgid "All Place Categories"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:136
+msgid "Place Parent Category"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:137
+msgid "Place Parent Category:"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:138
+msgid "Place Edit Category"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:139
+msgid "Place Update Category"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:140
+msgid "Add New Place Category"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:141
+msgid "New Place Category Name"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:153
+#: core/register-types/class-trilisting-register-types.php:155
+msgid "Place Locations"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:156
+msgid "Place Location"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:157
+msgid "Search Place Locations"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:158
+msgid "All Place Locations"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:159
+msgid "Parent Place Location"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:160
+msgid "Parent Place Location:"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:161
+msgid "Edit Place Location"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:162
+msgid "Update Place Location"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:163
+msgid "Add New Place Location"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:164
+msgid "New Place Location Name"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:177
+#: core/register-types/class-trilisting-register-types.php:179
+msgid "Place Features"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:180
+msgid "Place Feature"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:181
+msgid "Search Place Features"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:182
+msgid "All Place Features"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:183
+msgid "Parent Place Feature"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:184
+msgid "Parent Place Feature:"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:185
+msgid "Edit Place Feature"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:186
+msgid "Update Place Feature"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:187
+msgid "Add New Place Feature"
+msgstr ""
+
+#: core/register-types/class-trilisting-register-types.php:188
+msgid "New Place Feature Name"
+msgstr ""
+
+#: core/reviews/class-trilisting-reviews.php:43
+msgid "Rating"
+msgstr ""
+
+#: core/reviews/class-trilisting-reviews.php:81
+msgid ""
+"Error: You did not add a rating. Hit the Back button on your Web browser and "
+"resubmit your comment with a rating."
+msgstr ""
+
+#: core/saved-listings/class-trilisting-saved-listings.php:62
+msgid "Sorry ! You have no saved Listing yet!"
+msgstr ""
+
+#. translators: %s: main widget
+#: core/saved-listings/class-trilisting-saved-listings.php:110
+#: core/search/class-trilisting-search.php:839
+#, php-format
+msgid "Error: widget class \"%s\" doesnt exists"
+msgstr ""
+
+#: core/saved-listings/functions.php:112 core/saved-listings/functions.php:244
+msgid "Save"
+msgstr ""
+
+#: core/search/admin/class-admin-search-form.php:85
+msgid "Fields"
+msgstr ""
+
+#: core/search/admin/class-admin-search-form.php:93
+msgid "Settings"
+msgstr ""
+
+#: core/search/admin/class-admin-search-form.php:130
+#: core/search/admin/class-admin-search-form.php:131
+#: core/search/admin/class-admin-search-form.php:133
+msgid "Search form updated."
+msgstr ""
+
+#: core/search/admin/class-admin-search-form.php:132
+msgid "Search form deleted."
+msgstr ""
+
+#: core/search/admin/class-admin-search-form.php:135
+msgid "Search form published."
+msgstr ""
+
+#: core/search/admin/class-admin-search-form.php:136
+msgid "Search form saved."
+msgstr ""
+
+#: core/search/admin/class-admin-search-form.php:137
+msgid "Search form submitted."
+msgstr ""
+
+#: core/search/admin/class-admin-search-form.php:138
+msgid "Search form scheduled for."
+msgstr ""
+
+#: core/search/admin/class-admin-search-form.php:139
+msgid "Search form draft updated."
+msgstr ""
+
+#: core/search/admin/class-admin-search-forms.php:52
+#, php-format
+msgid "Active <span class=\"count\">(%s)</span>"
+msgid_plural "Active <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/search/admin/class-admin-search-forms.php:99
+msgid "Shortcode"
+msgstr ""
+
+#: core/search/class-trilisting-search.php:80
+msgid "What are you looking for?"
+msgstr ""
+
+#: core/search/class-trilisting-search.php:122
+msgid "Submit"
+msgstr ""
+
+#: core/search/class-trilisting-search.php:709
+#: core/templates/metabox-forms/metabox-fields.php:8
+msgid "Location"
+msgstr ""
+
+#: core/search/class-trilisting-search.php:922
+msgid "Post Types"
+msgstr ""
+
+#: core/search/class-trilisting-search.php:923
+msgid "Post Type"
+msgstr ""
+
+#: core/search/class-trilisting-search.php:924
+msgid "Search Post Types"
+msgstr ""
+
+#: core/search/class-trilisting-search.php:929
+msgid "All Post Types"
+msgstr ""
+
+#: core/search/class-trilisting-search.php:1094
+#: core/search/class-trilisting-search.php:1167
+#: core/search/class-trilisting-search.php:1203
+msgid "All "
+msgstr ""
+
+#: core/search/functions.php:16
+msgid "Search Forms"
+msgstr ""
+
+#: core/search/functions.php:17
+msgid "Search Form"
+msgstr ""
+
+#: core/search/functions.php:18
+msgid "All Search Forms"
+msgstr ""
+
+#: core/search/functions.php:19
+msgid "Add Search Form"
+msgstr ""
+
+#: core/search/functions.php:20
+msgid "Add New Search Form"
+msgstr ""
+
+#: core/search/functions.php:21
+msgid "Edit Search Form"
+msgstr ""
+
+#: core/search/functions.php:22
+msgid "New Search Form"
+msgstr ""
+
+#: core/search/functions.php:23
+msgid "View Search Form"
+msgstr ""
+
+#: core/search/functions.php:25
+msgid "No Search Forms"
+msgstr ""
+
+#: core/search/functions.php:26
+msgid "No Search Forms in Trash"
+msgstr ""
+
+#: core/sidebars/class-trilisting-sidebars.php:89
+msgid "triListing Place Top"
+msgstr ""
+
+#: core/sidebars/class-trilisting-sidebars.php:91
+#: core/sidebars/class-trilisting-sidebars.php:101
+msgid "Only single."
+msgstr ""
+
+#: core/sidebars/class-trilisting-sidebars.php:99
+msgid "triListing Place Bottom"
+msgstr ""
+
+#: core/templates/account/back-home.tpl.php:15
+msgid "Back to Home"
+msgstr ""
+
+#: core/templates/account/login.tpl.php:25
+#: core/templates/account/login.tpl.php:53
+msgid "Log in"
+msgstr ""
+
+#: core/templates/account/login.tpl.php:34
+#: core/templates/account/register.tpl.php:27
+msgid "Username"
+msgstr ""
+
+#: core/templates/account/login.tpl.php:37
+msgid "Password"
+msgstr ""
+
+#: core/templates/account/login.tpl.php:49
+msgid "Remember me"
+msgstr ""
+
+#: core/templates/account/login.tpl.php:57
+#: core/templates/account/register.tpl.php:75
+msgid "Do not have an account?"
+msgstr ""
+
+#: core/templates/account/login.tpl.php:58
+msgid "Sign Up Here"
+msgstr ""
+
+#: core/templates/account/login.tpl.php:67
+msgid "Lost your password?"
+msgstr ""
+
+#: core/templates/account/login.tpl.php:73
+msgid "Back to Log in"
+msgstr ""
+
+#: core/templates/account/register.tpl.php:21
+msgid "Register"
+msgstr ""
+
+#: core/templates/account/register.tpl.php:30
+msgid "Email"
+msgstr ""
+
+#: core/templates/account/register.tpl.php:38
+#, php-format
+msgid "I agree to the <a target=\"_blank\" href=\"%s\">Privacy Policy</a>"
+msgstr ""
+
+#: core/templates/account/register.tpl.php:54
+#, php-format
+msgid "I agree to the <a target=\"_blank\" href=\"%s\">Terms & Conditions</a>"
+msgstr ""
+
+#: core/templates/account/register.tpl.php:72
+msgid "Sign Up"
+msgstr ""
+
+#: core/templates/account/register.tpl.php:76
+msgid "Log in Here"
+msgstr ""
+
+#: core/templates/account/reset-password.tpl.php:12
+msgid "Forgot Password"
+msgstr ""
+
+#: core/templates/account/reset-password.tpl.php:18
+msgid "Enter your email"
+msgstr ""
+
+#: core/templates/account/reset-password.tpl.php:26
+msgid "Get new password"
+msgstr ""
+
+#: core/templates/dashboard.tpl.php:33
+msgid "My listing"
+msgstr ""
+
+#: core/templates/dashboard.tpl.php:59
+msgid "Sign Out"
+msgstr ""
+
+#: core/templates/dashboard.tpl.php:167
+msgid "You have no saved Listing yet!."
+msgstr ""
+
+#: core/templates/dashboard.tpl.php:218 core/templates/dashboard.tpl.php:227
+#: core/templates/metabox-forms/metabox-fields.php:38
+msgid "Edit"
+msgstr ""
+
+#: core/templates/dashboard.tpl.php:236
+msgid "Remove"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-fields.php:9
+msgid "Post types"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-fields.php:18
+msgid "Sort"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-fields.php:19
+#: core/templates/metabox-forms/metabox-fields.php:54
+msgid "Search by"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-fields.php:20
+#: core/templates/metabox-forms/metabox-fields.php:85
+msgid "Field Type"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-fields.php:21
+msgid "Heading"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-fields.php:36
+msgid "(No value)"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-fields.php:60
+#: core/templates/metabox-forms/metabox-fields.php:91
+msgid "Select value"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-fields.php:72
+msgid "Field Heading"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-fields.php:92
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:209
+msgid "Select"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-fields.php:93
+msgid "Checkbox"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-fields.php:94
+msgid "Radio Button"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-fields.php:103
+msgid "Hierarchical"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-fields.php:127
+msgid "Show Count"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-fields.php:151
+msgid "Placeholder"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-fields.php:171
+msgid "+ Add Field"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-fields.php:172
+msgid "Remove All"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-settings.php:12
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-settings.php:18
+msgid "Search Box"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-settings.php:19
+msgid "Search Page"
+msgstr ""
+
+#: core/templates/metabox-forms/metabox-settings.php:27
+msgid "\"Submit\" button text"
+msgstr ""
+
+#: core/templates/single-directory-listing.tpl.php:38
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: core/user-avatar/class-trilisting-user-avatar.php:139
+msgid "Avatar"
+msgstr ""
+
+#: core/user-avatar/class-trilisting-user-avatar.php:142
+msgid "Upload Avatar"
+msgstr ""
+
+#: core/user-avatar/class-trilisting-user-avatar.php:157
+msgid "No local avatar is set. Use the upload field to add a local avatar."
+msgstr ""
+
+#: core/user-avatar/class-trilisting-user-avatar.php:159
+msgid "Delete local avatar"
+msgstr ""
+
+#: core/user-avatar/class-trilisting-user-avatar.php:160
+msgid ""
+"Replace the local avatar by uploading a new avatar, or erase the local "
+"avatar (falling back to a gravatar) by checking the delete option."
+msgstr ""
+
+#: core/user-avatar/class-trilisting-user-avatar.php:165
+msgid "No local avatar is set. Set up your avatar at Gravatar.com."
+msgstr ""
+
+#: core/user-avatar/class-trilisting-user-avatar.php:167
+msgid ""
+"You do not have media management permissions. To change your local avatar, "
+"contact the site administrator."
+msgstr ""
+
+#: core/walkers/class-trilisting-search-walker.php:54
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: core/walkers/class-trilisting-search-walker.php:72
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "Please install the following plugin: %1$s."
+msgid_plural "Please install the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:393
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:920
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2626
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:394
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:395
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:1027
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:1214
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3602
+msgid "Installed and activated successfully."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3602
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3602
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3610
+msgid "Installed successfully."
+msgstr ""
+
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/vendor/TGM/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:23
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:17
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:69
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:57
+msgid "Icon Preview"
+msgstr ""
+
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:79
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:65
+msgid "Default Icon"
+msgstr ""
+
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:97
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:79
+msgid "Return Value"
+msgstr ""
+
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:98
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:80
+msgid "Specify the returned value on front end"
+msgstr ""
+
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:107
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:84
+msgid "Icon Element"
+msgstr ""
+
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:108
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:85
+msgid "Icon Class"
+msgstr ""
+
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:109
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:86
+msgid "Icon Unicode"
+msgstr ""
+
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:110
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:87
+msgid "Icon Object"
+msgstr ""
+
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:120
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:92
+msgid "Allow Null?"
+msgstr ""
+
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:140
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:103
+msgid "Show Icon Preview"
+msgstr ""
+
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:141
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:104
+msgid ""
+"Set to 'Yes' to include a larger icon preview on any admin pages using this "
+"field."
+msgstr ""
+
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:162
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:115
+msgid "Enqueue FontAwesome?"
+msgstr ""
+
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:163
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v5.php:116
+msgid "Set to 'Yes' to enqueue FA in the footer on any pages using this field."
+msgstr ""
+
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:210
+msgid "Font Awesome icon"
+msgstr ""
+
+#: includes/vendor/advanced-custom-fields-font-awesome/fields/acf-font-awesome-v4.php:244
+msgid "Cannot find icon"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Trilisting"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://trilisting.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Trilisting plugin allows you to create beautiful directory listing websites "
+"of all kinds."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "trilisting"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/trilisting"
+msgstr ""

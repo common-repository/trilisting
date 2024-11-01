@@ -1,0 +1,415 @@
+.tril-fields-settings,
+#minor-publishing-actions,
+#misc-publishing-actions #visibility {
+	display: none;
+}
+
+#trilisting-fields_metabox a {
+	outline: none;
+	box-shadow: none;
+}
+
+#trilisting-fields_metabox .inside {
+	padding: 0;
+	margin: 0;
+}
+
+#trilisting-fields_metabox .handlediv,
+#trilisting-fields_metabox .hndle {
+	display: none !important;
+}
+
+#trilisting-settings_metabox .inside {
+	padding: 0;
+	margin: 0;
+}
+
+.tril-search-form-field label {
+	display: block;
+	font-weight: bold;
+	margin: 0 0 3px;
+	padding: 0;
+}
+
+.tril-fields-list-wrap {
+	background: #fff;
+	border-top: #F0F0F0 solid 1px;
+}
+
+.tril-search-form-field p.description {
+	font-style: normal;
+	font-size: 12px;
+	color: #777777;
+}
+
+.tril-search-form-field input[type="text"],
+.tril-search-form-field textarea,
+.tril-search-form-field select {
+	width: 100%;
+	padding: 3px 5px;
+	resize: none;
+	margin: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	font-size: 14px;
+	line-height: 1.4;
+}
+
+.tril-search-form > .tril-search-form-field {
+	padding: 15px 0;
+	position: relative;
+	margin: 0;
+	padding: 15px 12px;
+	border-top: #EEEEEE solid 1px;
+	clear: both;
+}
+
+.tril-search-form .tril-search-form-field:first-child {
+	border-top-width: 0;
+}
+
+.tril-search-form > .tril-search-form-field:before {
+	content: "";
+	display: block;
+	position: absolute;
+	z-index: 0;
+	background: #F9F9F9;
+	border-color: #E1E1E1;
+	border-style: solid;
+	border-width: 0 1px 0 0;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	width: 20%;
+}
+
+.tril-footer:after,
+.tril-footer:before,
+.tril-head:after,
+.tril-head:before,
+.tril-handle-list:after,
+.tril-handle-list:before,
+.tril-search-form > .tril-search-form-field:after {
+	clear: both;
+	content: "";
+	display: table;
+}
+
+.tril-search-form > .tril-search-form-field > .tril-label {
+	float: left;
+	width: 20%;
+	margin: 0;
+	padding: 0;
+}
+
+.tril-search-form-field .tril-label,
+.tril-search-form-field .tril-input {
+	vertical-align: top;
+}
+
+.tril-search-form-field,
+.tril-search-form-field .tril-label,
+.tril-search-form-field .tril-input {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	position: relative;
+}
+
+.tril-search-form > .tril-search-form-field > .tril-input {
+	float: left;
+	width: 80%;
+	margin: 0;
+	padding: 0 4px;
+}
+
+.tril-table {
+	border: none;
+}
+
+.tril-table {
+	border: #DFDFDF solid 1px;
+	background: #fff;
+	border-spacing: 0;
+	border-radius: 0;
+	table-layout: auto;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	clear: both;
+}
+
+.tril-table > tbody > tr {
+	z-index: 1;
+}
+
+.tril-search-form-field {
+	margin: 15px 0;
+	clear: both;
+}
+
+.tril-table > tbody > tr:first-child > td {
+	border-top-width: 0;
+}
+
+.tril-table > tbody > tr > td:first-child {
+	border-left-width: 0;
+}
+
+.tril-table > tbody > tr > td {
+	border-color: #EDEDED;
+	border-width: 1px 0 0 1px;
+}
+
+.tril-table > tbody > tr > th,
+.tril-table > thead > tr > th,
+.tril-table > tbody > tr > td,
+.tril-table > thead > tr > td {
+	padding: 8px;
+	vertical-align: top;
+	background: #fff;
+	text-align: left;
+	border-style: solid;
+	font-weight: normal;
+}
+
+.tril-table tr.tril-search-form-field > td.tril-input {
+	padding: 15px 12px;
+	margin: 0;
+	border-left-color: #E1E1E1;
+}
+
+.tril-table > tbody > tr:first-child > td {
+	border-top-width: 0;
+}
+
+.tril-input-wrap {
+	position: relative;
+	overflow: hidden;
+}
+
+.tril-table tr.tril-search-form-field > td.tril-label {
+	padding: 15px 12px;
+	margin: 0;
+	background: #F9F9F9;
+	width: 20%;
+}
+
+.tril-handle-list {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	display: block;
+	position: relative;
+	width: 100%;
+}
+
+.tril-handle-list > li {
+	float: left;
+	display: block;
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 8px 15px;
+	font-size: 12px;
+	line-height: 14px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	word-wrap: break-word;
+}
+
+.tril-search-by-col,
+.tril-field-type-col,
+.tril-field-heading-col {
+	width: 26.6666%;
+}
+
+.tril-order {
+	width: 20%;
+}
+
+.tril-handle a {
+	text-decoration: none;
+}
+
+.tril-row-options a {
+	margin-right: 4px;
+}
+
+.tril-handle.open {
+	background: #2a9bd9;
+	border: #2696d3 solid 1px;
+	text-shadow: #268FBB 0 1px 0;
+	color: #fff;
+	position: relative;
+	margin: -1px -1px 0 -1px;
+}
+
+.tril-handle.open a {
+	color: #fff !important;
+}
+
+.tril-row-options a.tril-delete-fields {
+	color: #a00 !important;
+}
+
+.tril-row-options a.tril-delete-fields:hover {
+	color: #f00 !important;
+}
+
+.tril-head {
+	border-bottom: #E1E1E1 solid 1px;
+	color: #23282d;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	display: block;
+	position: relative;
+	z-index: 1;
+}
+
+.tril-head > li {
+	font-size: 14px;
+	line-height: 1.4em;
+	font-family: "Open Sans", sans-serif;
+	font-weight: bold;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 8px 15px;
+	float: left;
+	display: block;
+	margin: 0;
+}
+
+#trilisting-fields_metabox .wpa_loop {
+	background: #F9F9F9;
+	margin-top: -1px;
+}
+
+.tril-handle.open .tril-order-count {
+	border-color: #fff;
+	color: #fff;
+}
+
+.tril-order-count {
+	display: inline-block;
+	margin: 6px 0 0;
+	cursor: move;
+	height: 28px;
+	line-height: 28px;
+	width: 28px;
+	font-size: 13px;
+	position: relative;
+	z-index: 1;
+	text-align: center;
+	text-decoration: none;
+}
+
+a.tril-search-by-field-col:hover {
+	text-decoration: underline;
+}
+
+a.tril-search-by-field-col {
+	display: block;
+	padding-bottom: 6px;
+	font-size: 14px;
+	line-height: 14px;
+	min-height: 14px;
+}
+
+/* Footer */
+.tril-footer {
+	background: #f5f5f5;
+	border-top: #dddddd solid 1px;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.tril-footer > li {
+	padding: 8px 15px;
+}
+
+.tril-footer .tril-add-field {
+	float: right;
+}
+
+/* Switch */
+.tril-switch.-on {
+	background: #309cf3;
+	border-color: #2b9af3;
+}
+
+.tril-switch {
+	display: inline-block;
+	border-radius: 5px;
+	cursor: pointer;
+	position: relative;
+	background: #f8f8f8;
+	height: 30px;
+	vertical-align: middle;
+	border: #ccc solid 1px;
+	-webkit-transition: background 0.25s ease;
+	-moz-transition: background 0.25s ease;
+	-o-transition: background 0.25s ease;
+	transition: background 0.25s ease;
+}
+
+.tril-switch .tril-switch-on {
+	color: #fff;
+	text-shadow: #1f7db1 0 1px 0;
+}
+
+.tril-switch span {
+	display: inline-block;
+	float: left;
+	text-align: center;
+	font-size: 13px;
+	line-height: 22px;
+	padding: 4px 10px;
+	min-width: 15px;
+}
+
+.tril-switch span {
+	display: inline-block;
+	float: left;
+	text-align: center;
+	font-size: 13px;
+	line-height: 22px;
+	padding: 4px 10px;
+	min-width: 15px;
+}
+
+.tril-switch.-on .tril-switch-slider {
+	left: 50%;
+	right: 2px;
+	border-color: #0d84e3;
+}
+
+.tril-switch .tril-switch-slider {
+	position: absolute;
+	top: 2px;
+	left: 2px;
+	bottom: 2px;
+	right: 50%;
+	z-index: 1;
+	background: #fff;
+	border-radius: 3px;
+	border: #ccc solid 1px;
+	-webkit-transition: all 0.25s ease;
+	-moz-transition: all 0.25s ease;
+	-o-transition: all 0.25s ease;
+	transition: all 0.25s ease;
+	transition-property: left, right;
+}
+
+.tril-switch-input {
+	opacity: 0;
+	position: absolute;
+	margin: 0;
+}

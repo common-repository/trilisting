@@ -1,0 +1,386 @@
+.redux-container-sorter ul {
+	width: 390px;
+}
+
+#elementor-editor-wrapper .trilisting-insert-shortcode-button {
+	display: none;
+}
+
+.trilisting-shortcode-docs {
+	display: inline-block;
+	margin-left: 16px;
+}
+
+.trilisting-shortcode-docs .fas {
+	margin-right: 4px;
+}
+
+.js .redux-section .tmce-active .wp-editor-area {
+	color: #000;
+}
+
+.shortcode-options .chosen-container {
+	margin-top: 8px;
+}
+
+.tril-field-type-btns-wrap {
+	margin-bottom: 8px;
+}
+
+.trilisting-form-row {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+		-ms-flex-wrap: wrap;
+			flex-wrap: wrap;
+	max-width: 870px;
+}
+
+.trilisting-form-col {
+	margin-right: 16px;
+	margin-bottom: 16px;
+}
+
+@media only all and (min-width: 992px) {
+	.trilisting-form-import-pachage-wrap:nth-child(4n) .trilisting-form-col {
+		margin-right: 0;
+	}
+}
+
+.trilisting-form-import-wrap-input {
+	margin: 0;
+}
+
+.trilisting-package-btn {
+	background: rgb(16, 127, 217);
+	border: 0;
+	padding: 10px 17px;
+	border-radius: 5px;
+	font-weight: 500;
+	color: #fff;
+	opacity: 1;
+	cursor: pointer;
+	font-size: 16px;
+	-webkit-transition: opacity .3s ease;
+	-o-transition: opacity .3s ease;
+	transition: opacity .3s ease;
+}
+
+.trilisting-submit-delete-package {
+	opacity: .5;
+}
+
+.trilisting-package-btn:hover {
+	opacity: .8;
+}
+
+.trilisting-form-package-title {
+	position: relative;
+	top: -15px;
+}
+
+@media only all and (max-width: 991px) {
+	.trilisting-form-row {
+		padding: 0 8px;
+	}
+
+	.trilisting-form-import-pachage-wrap:nth-child(3n) .trilisting-form-col {
+		margin-right: 0;
+	}
+
+	.trilisting-form-col {
+		width: 240px;
+	}
+}
+
+@media only all and (max-width: 767px) {
+	.trilisting-form-col {
+		margin-right: 0;
+	}
+
+	.trilisting-form-import-pachage-wrap,
+	.trilisting-form-col {
+		width: 100%;
+	}
+}
+
+.trilisting-admin-wl-sub-wrap img {
+	max-width: 800px;
+}
+
+@media only all and (max-width: 996px) {
+	.trilisting-admin-wl-sub-wrap img {
+		max-width: 705px;
+	}
+}
+
+@media only all and (max-width: 767px) {
+	.trilisting-admin-wl-sub-wrap img {
+		max-width: 270px;
+	}
+}
+
+.trilisting-admin-wl-icon,
+.trilisting-admin-wl-sub-wrap,
+.trilisting-admin-wl-left-section,
+.trilisting-admin-wl-right-section {
+	display: inline-block;
+}
+
+.trilisting-admin-wl {
+	padding: 0 20px;
+	max-width: 960px;
+	margin-bottom: 37px;
+}
+
+.trilisting-admin-wl-lable {
+	display: block;
+	font-size: 15px;
+}
+
+.trilisting-admin-wl-title {
+	font-size: 42px;
+	font-weight: normal;
+	margin-bottom: 37px;
+}
+
+.trilisting-admin-wl-desc {
+	font-size: 19px;
+}
+
+.trilisting-admin-wl-top-bl {
+	margin-bottom: 13px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.trilisting-admin-wl-left-section {
+	max-width: 792px;
+}
+
+.trilisting-admin-wl-right-section {
+	position: relative;
+	top: 22px;
+}
+
+.trilisting-admin-wl-logo {
+	max-width: 137px;
+}
+
+.trilisting-admin-wl-center-bl {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.trilisting-admin-wl-col {
+	max-width: 50%;
+	-webkit-flex-basis: 50%;
+		-ms-flex-preferred-size: 50%;
+			flex-basis: 50%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.trilisting-admin-wl-icon {
+	margin-right: 18px;
+}
+
+.trilisting-admin-wl-step-nmb,
+.trilisting-admin-wl-icon .dashicons,
+.trilisting-admin-wl-step .trilisting-admin-wl-sub-title,
+.trilisting-admin-wl-icon .dashicons-before:before {
+	font-size: 24px;
+}
+
+.trilisting-admin-wl-sub-title {
+	font-size: 18px;
+	margin-bottom: 15px;
+	line-height: 1.2;
+}
+
+.trilisting-admin-wl-sub-desc {
+	max-width: 370px;
+	font-size: 13px;
+	line-height: 1.7;
+}
+
+.trilisting-admin-wl-center-bl {
+	margin-bottom: 16px;
+}
+
+.trilisting-admin-wl-section-title {
+	font-size: 21px;
+	margin-bottom: 42px;
+}
+
+.trilisting-admin-wl-input-wrap {
+	margin-bottom: 12px;
+}
+
+.trilisting-admin-wl-desc-subscribe {
+	font-size: 14px;
+	margin: 4px 0;
+}
+
+.trilisting-admin-wl-input-email {
+	max-width: 378px;
+	height: 37px;
+	width: 100%;
+}
+
+@media only all and (max-width: 520px) {
+	.trilisting-admin-wl-input-email {
+		max-width: 320px;
+	}
+}
+
+.trilisting-admin-wl-submit-btn {
+	min-width: 106px;
+	min-height: 33px;
+	color: #fff;
+	border: none;
+	-webkit-box-shadow: none;
+			box-shadow: none;
+	cursor: pointer;
+	background-color: #aaa;
+	border-radius: 4px;
+	-webkit-transition: all 0.23s ease-in-out 0s;
+	-o-transition: all 0.23s ease-in-out 0s;
+	transition: all 0.23s ease-in-out 0s;
+}
+
+.trilisting-admin-wl-submit-btn:hover {
+	background-color: rgb(182, 182, 182);
+}
+
+#adminmenu .toplevel_page_trilisting .wp-menu-image img {
+	padding-top: 7px;
+}
+
+/* Redux header */
+.trilisting-redux-header-wrap {
+	min-height: 83px;
+	background-color: #000000;
+	padding: 17px 15px 8px 15px;
+	position: relative;
+}
+
+.trilisting-redux-header-section-wrap {
+	display: flex;
+	justify-content: space-between;
+	min-height: 72px;
+	flex-wrap: wrap;
+}
+
+.trilisting-redux-header-wrap .trilisting-redux-logo {
+	max-height: 72px;
+	min-width: 72px;
+}
+
+.trilisting-redux-header-wrap .trilisting-redux-header-link {
+	display: inline-block;
+	font-size: 16px;
+	text-decoration: underline;
+	color: #f1f1f1;
+	margin-left: 16px;
+}
+
+.trilisting-redux-header-wrap .trilisting-redux-header-link:hover {
+	color: #fff;
+}
+
+.trilisting-redux-header-wrap .trilisting-redux-header-links-wrap {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+}
+
+.trilisting-redux-header-wrap .trilisting-redux-header-links-wrap,
+.trilisting-redux-header-wrap .trilisting-redux-left-section {
+	display: flex;
+	align-items: center;
+}
+
+.trilisting-redux-header-wrap .trilisting-redux-header-title {
+	color: #fff;
+	display: inline-block;
+	margin: 0 0 0 15px;
+	font-size: 32px;
+	text-transform: uppercase;
+}
+
+@media only all and (min-width: 992px) {
+	.redux-container {
+		max-width: 1050px;
+	}
+}
+
+#trilisting_redux_option-footer_style_tmpl_type ul.redux-image-select li {
+	width: 32%;
+}
+
+#trilisting_redux_option-footer_style_tmpl_type ul.redux-image-select li:nth-child(3n) {
+	margin-right: 0 !important;
+}
+
+#redux-footer {
+	right: initial !important;
+}
+
+.trilisting-admin-wl-step {
+	max-width: 100%;
+	flex-basis: 100%;
+}
+
+.trilisting-admin-wl-step .trilisting-admin-wl-sub-desc {
+	max-width: 100%;
+}
+
+.trilisting-admin-wl-subscribe .trilisting-admin-wl-section-title {
+	margin-bottom: 22px;
+}
+
+.trilisting-admin-wl-subscribe-form.error .trilisting-admin-wl-input-email:focus {
+	outline: red;
+	border-color: red;
+	box-shadow: 0 0 2px red;
+}
+
+.trilisting-admin-wl-subscribe-form.error .trilisting-subscribe-status {
+	color: red;
+}
+
+.trilisting-import-status,
+.trilisting-admin-wl-subscribe-form.sucsess .trilisting-subscribe-status {
+	color: green;
+}
+
+#redux_rAds {
+	display: none !important;
+}
+
+.tril-export-fields-wrap #acf-field-acf_posts {
+	min-width: 368px;
+	min-height: 146px;
+}
+
+.acf-font-awesome-link-wrap {
+	margin-top: 10px;
+}
+
+/* acf-font-awesome */
+.acf-font-awesome-link-text {
+	margin-right: 8px;
+}
+
+.trilisting-warning {
+	color: rgb(228, 13, 13);
+}
